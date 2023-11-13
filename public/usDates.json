@@ -1,0 +1,394 @@
+{
+    "dates": [
+        {
+            "dateID": 5,
+            "title": "We Met at IKEA",
+            "location": "Draper, UT",
+            "date": "2021-01-15T14:00:00-02:00"
+        },
+        {
+            "dateID": 6,
+            "title": "Move in together",
+            "location": "Sandy, UT",
+            "date": "June 30, 2023"
+        },
+        {
+            "dateID": 7,
+            "title": "Oingo Boingo",
+            "location": "Millcreek, UT",
+            "date": "November 11, 2023"
+        },
+        {
+            "dateID": 8,
+            "title": "Moab",
+            "location": "Moab, UT",
+            "date": "May 13, 2023"
+        },
+        {
+            "dateID": 9,
+            "title": "Your 22nd Birthday",
+            "location": "Ruths Chris, UT",
+            "date": "May 9, 2023"
+        },
+        {
+            "dateID": 10,
+            "title": "Your Graduation",
+            "location": "University of Utah, UT",
+            "date": "May 5, 2023"
+        },
+        {
+            "dateID": 11,
+            "title": "Tisoki",
+            "location": "University of Utah, UT",
+            "date": "April 22, 2023"
+        },
+        {
+            "dateID": 12,
+            "title": "Amy's Disco Birthday",
+            "location": "Lehi, UT",
+            "date": "April 1, 2023"
+        },
+        {
+            "dateID": 13,
+            "title": "Skiing/Snowboarding",
+            "location": "Brighton, UT",
+            "date": "March 25, 2023"
+        },
+        {
+            "dateID": 15,
+            "title": "Exchange Building Exploration III",
+            "location": "Ogden, UT",
+            "date": "January 15, 2023"
+        },
+        {
+            "dateID": 16,
+            "title": "Camping in argyle",
+            "location": "Argyle, UT",
+            "date": "July 4, 2023"
+        },
+        {
+            "dateID": 17,
+            "title": "Pumpkin Carving",
+            "location": "South Jordan, UT",
+            "date": "October 29, 2022"
+        },
+        {
+            "dateID": 18,
+            "title": "Ms Keisha went under",
+            "location": "Sandy, UT",
+            "date": "October 24, 2022"
+        },
+        {
+            "dateID": 19,
+            "title": "Exchange Building Exploration II",
+            "location": "Ogden, UT",
+            "date": "October 13, 2022"
+        },
+        {
+            "dateID": 20,
+            "title": "Pictures with you",
+            "location": "Brighton, UT",
+            "date": "October 6, 2022"
+        },
+        {
+            "dateID": 21,
+            "title": "Aquarium",
+            "location": "Draper, UT",
+            "date": "July 15, 2022"
+        },
+        {
+            "dateID": 22,
+            "title": "Pickle Burger",
+            "location": "South Jordan, UT",
+            "date": "July 14, 2022"
+        },
+        {
+            "dateID": 22,
+            "title": "Pickle Burger",
+            "location": "South Jordan, UT",
+            "date": "July 14, 2022"
+        },
+        {
+            "dateID": 23,
+            "title": "Longboarding",
+            "location": "South Jordan, UT",
+            "date": "June 3, 2023"
+        },
+        {
+            "dateID": 24,
+            "title": "We saw Super Mario Bros. Movie",
+            "location": "Draper, UT",
+            "date": "April 30, 2023"
+        },
+        {
+            "dateID": 25,
+            "title": "Sheels",
+            "location": "Draper, UT",
+            "date": "April 24, 2023"
+        },
+        {
+            "dateID": 26,
+            "title": "Asian City Chips",
+            "location": "West Jordan, UT",
+            "date": "April 19, 2023"
+        },
+        {
+            "dateID": 27,
+            "title": "Clay Modeling",
+            "location": "South Jordan, UT",
+            "date": "February 21, 2023"
+        },
+        {
+            "dateID": 29,
+            "title": "No Flowers, still pretty",
+            "location": "Some Cottonwood, UT",
+            "date": "September 1, 2022"
+        },
+        {
+            "dateID": 30,
+            "title": "Spirit Halloween",
+            "location": "Sandy, UT",
+            "date": "August 28, 2022"
+        },
+        {
+            "dateID": 31,
+            "title": "$uicideBoy$",
+            "location": "Usana, UT",
+            "date": "August 21, 2022"
+        },
+        {
+            "dateID": 32,
+            "title": "Briyans",
+            "location": "Bluffdale, UT",
+            "date": "August 5, 2022"
+        },
+        {
+            "dateID": 33,
+            "title": "Camping in argyle",
+            "location": "Argyle, UT",
+            "date": "July 2, 2022"
+        },
+        {
+            "dateID": 34,
+            "title": "Teacha ready for class",
+            "location": "Lehi, UT",
+            "date": "June 23, 2022"
+        },
+        {
+            "dateID": 35,
+            "title": "Malibu w you",
+            "location": "Malibu, CA",
+            "date": "June 8, 2022"
+        },
+        {
+            "dateID": 36,
+            "title": "Karaoke",
+            "location": "Las Vegas, NV",
+            "date": "June 5, 2022"
+        },
+        {
+            "dateID": 37,
+            "title": "Jenn's 21 Birthday",
+            "location": "Las Vegas, NV",
+            "date": "June 5, 2022"
+        },
+        {
+            "dateID": 38,
+            "title": "Beach Time",
+            "location": "Malibu, CA",
+            "date": "June 6, 2022"
+        },
+        {
+            "dateID": 39,
+            "title": "Weenie Roast",
+            "location": "Some Cottonwood, UT",
+            "date": "May 28, 2022"
+        },
+        {
+            "dateID": 40,
+            "title": "21st @ home",
+            "location": "Family's house, UT",
+            "date": "May 14, 2022"
+        },
+        {
+            "dateID": 41,
+            "title": "21st downtown",
+            "location": "Salt Lake City, UT",
+            "date": "May 9, 2022"
+        },
+        {
+            "dateID": 42,
+            "title": "Paintballing",
+            "location": "",
+            "date": "April 23, 2022"
+        },
+        {
+            "dateID": 43,
+            "title": "Axe Throwing",
+            "location": "",
+            "date": "April 15, 2022"
+        },
+        {
+            "dateID": 44,
+            "title": "Hammoking",
+            "location": "",
+            "date": "April 2, 2022"
+        },
+        {
+            "dateID": 45,
+            "title": "Sunset on the beach",
+            "location": "Huntington Beach, CA",
+            "date": "March 11, 2022"
+        },
+        {
+            "dateID": 46,
+            "title": "Ruths Chris",
+            "location": "Anaheim, CA",
+            "date": "March 11, 2022"
+        },
+        {
+            "dateID": 47,
+            "title": "Disneyland",
+            "location": "Anaheim, CA",
+            "date": "March 10, 2022"
+        },
+        {
+            "dateID": 47,
+            "title": "California Adventure",
+            "location": "Anaheim, CA",
+            "date": "March 7, 2022"
+        },
+        {
+            "dateID": 48,
+            "title": "Bumper Cars",
+            "location": "",
+            "date": "February 5, 2022"
+        },
+        {
+            "dateID": 49,
+            "title": "Bunny Costume",
+            "location": "Lehi, UT",
+            "date": "January 4, 2022"
+        },
+        {
+            "dateID": 50,
+            "title": "Christmas Lights",
+            "location": "Lehi, UT",
+            "date": "December 19, 2021"
+        },
+        {
+            "dateID": 51,
+            "title": "Shooting",
+            "location": "",
+            "date": "October 17, 2021"
+        },
+        {
+            "dateID": 52,
+            "title": "Fear Factory",
+            "location": "",
+            "date": "October 16, 2021"
+        },
+        {
+            "dateID": 53,
+            "title": "Strip Steak",
+            "location": "Las Vegas, NV",
+            "date": "October 13, 2021"
+        },
+        {
+            "dateID": 54,
+            "title": "Disneyland",
+            "location": "Anaheim, CA",
+            "date": "October 11, 2021"
+        },
+        {
+            "dateID": 55,
+            "title": "IKEA, Carson",
+            "location": "Carson, CA",
+            "date": "October 12, 2021"
+        },
+        {
+            "dateID": 56,
+            "title": "Pumpkin Carving",
+            "location": "South Jordan, UT",
+            "date": "September 27, 2021"
+        },
+        {
+            "dateID": 57,
+            "title": "Birthday Steak",
+            "location": "South Jordan, UT",
+            "date": "August 9, 2021"
+        },
+        {
+            "dateID": 58,
+            "title": "Post Malone",
+            "location": "Usana, UT",
+            "date": "August 7, 2021"
+        },
+        {
+            "dateID": 59,
+            "title": "Mini Deserts",
+            "location": "South Jordan, UT",
+            "date": "July 24, 2021"
+        },
+        {
+            "dateID": 60,
+            "title": "console COD",
+            "location": "Lehi, UT",
+            "date": "July 21, 2021"
+        },
+        {
+            "dateID": 61,
+            "title": "Raising Cane's",
+            "location": "South Jordan, UT",
+            "date": "June 21, 2021"
+        },
+        {
+            "dateID": 63,
+            "title": "CREEPA",
+            "location": "Minecraft",
+            "date": "June 1, 2021"
+        },
+        {
+            "dateID": 6,
+            "title": "Seattle",
+            "location": "Seattle, WA",
+            "date": "April 28, 2021"
+        },
+        {
+            "dateID": 65,
+            "title": "Bowling",
+            "location": "Draper, UT",
+            "date": "April 23, 2021"
+        },
+        {
+            "dateID": 66,
+            "title": "Lego Building",
+            "location": "South Jordan, UT",
+            "date": "April 12, 2021"
+        },
+        {
+            "dateID": 67,
+            "title": "Stunting in Smiths",
+            "location": "South Jordan, UT",
+            "date": "March 29, 2021"
+        },
+        {
+            "dateID": 68,
+            "title": "Watching Softball Games",
+            "location": "Alta, UT",
+            "date": "March 16, 2021"
+        },
+        {
+            "dateID": 69,
+            "title": "420 before 420",
+            "location": "Alta, UT",
+            "date": "Februrary 23, 2021"
+        },
+        {
+            "dateID": 70,
+            "title": "Hyatt Hotel",
+            "location": "Lehi, UT",
+            "date": "Februrary 19, 2021"
+        }
+    ]
+}
